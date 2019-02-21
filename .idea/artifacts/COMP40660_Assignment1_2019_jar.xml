@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COMP40660_Assignment1_2019:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COMP40660_Assignment1_2019_jar</output-path>
+    <root id="archive" name="COMP40660_Assignment1_2019.jar">
+      <element id="module-output" name="COMP40660_Assignment1_2019" />
+    </root>
+  </artifact>
+</component>
