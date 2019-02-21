@@ -4,11 +4,15 @@ This is a java program which can calculate actual throughput and 10GB data trans
 
 ### Run
 
- `path/to/COMP40660_Assignment1_2019/out/artifacts/COMP40660_Assignment1_2019_jar`
+```
+path/to/COMP40660_Assignment1_2019/out/artifacts/COMP40660_Assignment1_2019_jar
+```
 
 Run the `COMP40660_Assignment1_2019.jar` in this folder by using:
 
- `java -jar COMP40660_Assignment1_2019.jar`
+```
+java -jar COMP40660_Assignment1_2019.jar
+```
 
 After that, pass the protocol, data rate, and standard one by one. (Use "a", "g", "n" as the way to represent different standard).
 
